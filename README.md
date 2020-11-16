@@ -8,5 +8,5 @@
 
 ## Connect me via
 [Facebook](https://facebook.com/Truong.3423)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 #### © 2020 by Truong
