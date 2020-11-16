@@ -26,4 +26,23 @@ public class main {
         }
         System.out.println("vui m");
     }
+    // mình mún kết luận hàm nogn, mình phải test các trường hợp xài hàm
+    // mình phải thiết kế các test case, tình huống test để sau đó mình verify
+    // giữa giá trị trả về của hàm (actual) có khớp với expected cái mình dự định hàm chạy trả về
+    // và nếu mọi thứ khớp, tức là actual == expected, mình mới dám gáy hàm ngon
+    // nhược điểm: nhìn bằng mắt và so sánh kết quả của từng case
+    //cách này tiềm ẩn sai sót do nhìn = mắt
+    
+    // cách nâng cao
+    // cũng nhìn = mắt, nhưng nhìn 2 màu xanh - đỏ cho mọi test case
+    // nếu bạn xài 100 tham số, chạy hàm với 100 tình huống khác nhau
+    // bạn chỉ cần nhìn duy nhất 2 màu xanh - đỏ
+    // xanh - code ổn định cho mọi test case
+    // đỏ - nếu mọi case màu xanh, chỉ có 1 thằng đỏ => cả đám đỏ
+    // phải đảm bảo rằng phải chính xác mọi tình huống
+    
+    // mún làm đc điều này, cần sự phụ giúp của các thư viện bên ngoài JDK, gọi là UNIT TEST FRAMEWORK
+    // nổi tiếng: JUnit, TestNG, NUnit,...
+    // nay học qua JUnit
+    // test hàm có ngon ko, nhưng chỉ nhìn đúng 2 màu, ko care chi tiết các tình huống chạy hàm
 }
