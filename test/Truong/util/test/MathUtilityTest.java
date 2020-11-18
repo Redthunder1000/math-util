@@ -36,6 +36,6 @@ public class MathUtilityTest {
         assertEquals(120, getFactorial(5));
         assertEquals(24, getFactorial(4));
         assertEquals(720, getFactorial(6));
-        assertEquals(1, getFactorial(0));
+        assertEquals(0, getFactorial(0));
     }
 }
