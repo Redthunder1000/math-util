@@ -24,7 +24,7 @@ public class main {
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
-        System.out.println("vui m");
+        System.out.println("I want to see the RED or GREEN!!!");
     }
     // mình mún kết luận hàm nogn, mình phải test các trường hợp xài hàm
     // mình phải thiết kế các test case, tình huống test để sau đó mình verify
